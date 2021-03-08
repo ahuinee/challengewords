@@ -1,5 +1,11 @@
 # challengewords
 
+#### 用户需求
+
+<img src="https://github.com/ahuinee/challengewords/resources/WechatIMG162.jpeg" alt="WechatIMG162" style="zoom:25%;" />
+
+
+
 ## Project setup
 ```
 npm install
