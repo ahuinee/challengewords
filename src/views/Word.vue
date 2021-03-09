@@ -47,14 +47,24 @@ export default {
     // 单词校验
     verification:function() {
       if (this.input === 'ok') {
-        console.log('成功')
-        this.next()
+        this.$message({
+          message: '恭喜你，答对了！',
+          type: 'success'
+        })
+        setInterval(() => {
+          this.next()
+        }, 1000);
+        
       } else {
-        console.log('失败')
+        this.$message({
+          message: '错了哦，再想想！',
+          type: 'error'
+        });
       }
     },
     // 下一步
     next() {
+      this.input = ''
       console.log('next')
     }
   }
