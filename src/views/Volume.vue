@@ -6,17 +6,19 @@
       </el-header>
       <el-main>
         <!-- 学期选择 -->
-        <div>
-          <el-radio label="1">上学期</el-radio>
+        <div v-for="(item, index) in volumes" :key="index">
+          <el-radio
+            style="margin-top: 10px"
+            v-model="selectedVolumeIndex"
+            :label="index"
+            >{{ item.volumeName }}</el-radio
+          >
         </div>
-        <div>
-          <el-radio label="2">下学期</el-radio>
-        </div>
+
         <!-- 下一步 选择单元 -->
-        <div style="margin: 100px;"></div>
-        <router-link to="/unit">
-          <el-button type="primary" round >下一步</el-button>
-        </router-link>
+        <el-button style="margin: 100px" type="primary" round @click="pushUnit"
+          >下一步</el-button
+        >
       </el-main>
     </el-container>
   </div>
@@ -25,5 +27,22 @@
 <script>
 export default {
   name: "Volume",
+  data() {
+    return {
+      volumes: [],
+      selectedVolumeIndex: 0,
+    };
+  },
+  created() {
+    this.volumes = this.$route.params.volumes;
+  },
+  methods: {
+    // 进入单元选择
+    pushUnit() {
+      const units = this.volumes[this.selectedVolumeIndex].units;
+      console.log(units);
+      this.$router.push({ name: "Uint", params: { units: units } });
+    },
+  },
 };
 </script>

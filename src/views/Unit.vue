@@ -6,17 +6,18 @@
       </el-header>
       <el-main>
         <!-- 单元选择 -->
-        <div>
-          <el-radio label="1">第一单元</el-radio>
-        </div>
-        <div>
-          <el-radio label="2">第二单元</el-radio>
+        <div v-for="(item, index) in units" :key="index">
+          <el-radio
+            style="margin-top: 10px"
+            v-model="selectedUnitIndex"
+            :label="index"
+            >{{ item.unitName }}</el-radio
+          >
         </div>
         <!-- 单词挑战 -->
-        <div style="margin: 100px;"></div>
-        <router-link to="/word">
-          <el-button type="primary" round >开始挑战</el-button>
-        </router-link>
+        <el-button style="margin: 100px" type="primary" round @click="pushWord"
+          >下一步</el-button
+        >
       </el-main>
     </el-container>
   </div>
@@ -25,5 +26,22 @@
 <script>
 export default {
   name: "Unit",
+  data() {
+    return {
+      units: [],
+      selectedUnitIndex: 0,
+    };
+  },
+  created() {
+    this.units = this.$route.params.units;
+  },
+  methods: {
+    // 进入单元选择
+    pushWord() {
+      const words = this.units[this.selectedUnitIndex].words;
+      console.log(words);
+      this.$router.push({ name: "Word", params: { words: words } });
+    },
+  },
 };
 </script>

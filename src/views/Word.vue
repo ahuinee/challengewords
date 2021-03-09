@@ -2,15 +2,38 @@
   <div>
     <el-container>
       <el-header>
-        <h1>好的 (1/10)</h1>
+        <h1>
+          {{ currentWord.chinese }} ({{ wordsLengh - words.length }}/{{
+            wordsLengh
+          }})
+        </h1>
       </el-header>
       <el-main>
         <div>
-          <el-input v-model="input" placeholder="请输入对应单词" style="width: 200px"></el-input>
+          <el-input
+            v-model="inputWord"
+            placeholder="请输入对应单词"
+            style="width: 200px"
+          ></el-input>
         </div>
+
         <!-- 输入完成 -->
-        <div style="margin: 100px;"></div>
-        <el-button type="success" round @click="verification">确认</el-button>
+        <el-button
+          v-if="gameOver === false"
+          style="margin: 100px"
+          type="success"
+          round
+          @click="verification"
+          >确认</el-button
+        >
+        <el-button
+          v-if="gameOver === true"
+          style="margin: 100px"
+          type="success"
+          round
+          @click="backHome"
+          >结束</el-button
+        >
       </el-main>
     </el-container>
   </div>
@@ -19,55 +42,57 @@
 <script>
 export default {
   name: "Word",
-  props: {
-    image: {
-      type: String,
-      
-    },
-    zIndex: {
-      type: Number,
-      default: 1
-    },
-    width: {
-      type: String,
-      default: '150px'
-    },
-    height: {
-      type: String,
-      default: '150px'
-    }
-  },
   data() {
     return {
-      input: ''
-    }
+      inputWord: "",
+      wordsLengh: 0,
+      words: [],
+      currentWord: {},
+      gameOver: false,
+    };
   },
-  
+  created() {
+    this.words = JSON.parse(JSON.stringify(this.$route.params.words));
+    this.wordsLengh = this.words.length;
+    const randomIndex = Math.floor(Math.random() * this.words.length); // 可均衡获取 0 到 length 的随机整数。
+    this.currentWord = this.words[randomIndex];
+    this.words.splice(randomIndex, 1);
+  },
   methods: {
     // 单词校验
-    verification:function() {
-      if (this.input === 'ok') {
+    verification: function () {
+      if (this.inputWord.toLowerCase() === this.currentWord.english.toLowerCase()) {
         this.$message({
-          message: '恭喜你，答对了！',
-          type: 'success'
-        })
-        setInterval(() => {
-          this.next()
+          message: "恭喜你，答对了！",
+          type: "success",
+        });
+        // 进入下一个单词
+        setTimeout(() => {
+          this.nextWord();
         }, 1000);
-        
       } else {
         this.$message({
-          message: '错了哦，再想想！',
-          type: 'error'
+          message: "错了哦，再想想！",
+          type: "error",
         });
       }
     },
-    // 下一步
-    next() {
-      this.input = ''
-      console.log('next')
-    }
-  }
+    // 下一个单词
+    nextWord() {
+      if (this.words.length > 0) {
+        this.inputWord = "";
+        const randomIndex = Math.floor(Math.random() * this.words.length); // 可均衡获取 0 到 length 的随机整数。
+        this.currentWord = this.words[randomIndex];
+        this.words.splice(randomIndex, 1);
+      } else {
+        this.gameOver = true;
+      }
+    },
+    // 回到首页
+    backHome() {
+      this.$router.push('/')
+    },
+  },
 };
 </script>
 

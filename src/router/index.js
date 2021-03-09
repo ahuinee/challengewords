@@ -36,4 +36,17 @@ const router = new VueRouter({
   routes
 })
 
+router.beforeEach(async(to, from, next) => {
+  // start progress bar
+  
+  if (JSON.stringify(to.params)=="{}" && to.path != '/') {
+    next({ path: '/' })
+    
+  } else {
+    next()
+  }
+  console.log('hahh')
+  console.log(to)
+})
+
 export default router
