@@ -3,61 +3,191 @@
         "gradeName": "三年级",
         "volumes": [
             {
-                "volumeName": "上学期",
+                "volumeName": "上册",
                 "units": [
                     {
-                        "unitName": "第一单元",
+                        "unitName": "第五单元",
                         "words": [
                             {
-                                "english": "good",
-                                "chinese": "好"
+                                "chinese": "好",
+                                "english": "good"
                             },
                             {
-                                "english": "I",
-                                "chinese": "我"
+                                "chinese": "我",
+                                "english": "I"
                             },
                             {
-                                "english": "he",
-                                "chinese": "他"
+                                "chinese": "他",
+                                "english": "he"
+                            },
+                            {
+                                "chinese": "（我）是",
+                                "english": "am"
+                            },
+                            {
+                                "chinese": "帽子；便帽",
+                                "english": "cap"
                             }
                         ]
                     },
                     {
-                        "unitName": "第二单元",
+                        "unitName": "第六单元",
                         "words": [
                             {
-                                "english": "good",
-                                "chinese": "好"
+                                "chinese": "（你）是",
+                                "english": "are"
                             },
                             {
-                                "english": "I",
-                                "chinese": "我"
+                                "chinese": "（他；她；它）是",
+                                "english": "is"
                             },
                             {
-                                "english": "he",
-                                "chinese": "他"
+                                "chinese": "橙色的",
+                                "english": "orange"
+                            },
+                            {
+                                "chinese": "绿色的",
+                                "english": "green"
+                            },
+                            {
+                                "chinese": "它",
+                                "english": "it"
+                            },
+                            {
+                                "chinese": "红色的",
+                                "english": "red"
+                            },
+                            {
+                                "chinese": "和",
+                                "english": "and"
+                            },
+                            {
+                                "chinese": "黑色的",
+                                "english": "black"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第七单元",
+                        "words": [
+                            {
+                                "chinese": "一个（辅音前）",
+                                "english": "a"
+                            },
+                            {
+                                "chinese": "这；这个",
+                                "english": "this"
+                            },
+                            {
+                                "chinese": "姐姐；妹妹",
+                                "english": "sister"
+                            },
+                            {
+                                "chinese": "认识",
+                                "english": "meet"
+                            },
+                            {
+                                "chinese": "不是；没有",
+                                "english": "no"
+                            },
+                            {
+                                "chinese": "蛋糕",
+                                "english": "cake"
+                            },
+                            {
+                                "chinese": "一个（元音前）",
+                                "english": "an"
+                            },
+                            {
+                                "chinese": "鸡蛋",
+                                "english": "egg"
+                            },
+                            {
+                                "chinese": "看；瞧",
+                                "english": "look"
+                            },
+                            {
+                                "chinese": "蓝色的",
+                                "english": "blue"
+                            },
+                            {
+                                "chinese": "棕色的",
+                                "english": "brown"
+                            },
+                            {
+                                "chinese": "白色的",
+                                "english": "white"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第八单元",
+                        "words": [
+                            {
+                                "chinese": "开心；快乐",
+                                "english": "happy"
+                            },
+                            {
+                                "chinese": "新的",
+                                "english": "new"
+                            },
+                            {
+                                "chinese": "年",
+                                "english": "year"
+                            },
+                            {
+                                "chinese": "给",
+                                "english": "for"
+                            },
+                            {
+                                "chinese": "你；你们",
+                                "english": "you"
+                            },
+                            {
+                                "chinese": "那；那个",
+                                "english": "that"
+                            },
+                            {
+                                "chinese": "小汽车",
+                                "english": "car"
+                            },
+                            {
+                                "chinese": "是；对",
+                                "english": "yes"
                             }
                         ]
                     }
                 ]
             },
             {
-                "volumeName": "下学期",
+                "volumeName": "下册",
                 "units": [
                     {
                         "unitName": "第一单元",
                         "words": [
                             {
-                                "english": "good",
-                                "chinese": "好"
+                                "chinese": "开；打开",
+                                "english": "open"
                             },
                             {
-                                "english": "I",
-                                "chinese": "我"
+                                "chinese": "这个",
+                                "english": "the"
                             },
                             {
-                                "english": "he",
-                                "chinese": "他"
+                                "chinese": "门",
+                                "english": "door"
+                            },
+                            {
+                                "chinese": "关上",
+                                "english": "close"
+                            },
+                            {
+                                "chinese": "窗户",
+                                "english": "window"
+                            },
+                            {
+                                "chinese": "书",
+                                "english": "book"
                             }
                         ]
                     },
@@ -65,16 +195,210 @@
                         "unitName": "第二单元",
                         "words": [
                             {
-                                "english": "good",
-                                "chinese": "好"
+                                "chinese": "在...里",
+                                "english": "in"
                             },
                             {
-                                "english": "I",
-                                "chinese": "我"
+                                "chinese": "跑",
+                                "english": "run"
                             },
                             {
-                                "english": "he",
-                                "chinese": "他"
+                                "chinese": "吃",
+                                "english": "eat"
+                            },
+                            {
+                                "chinese": "谈话",
+                                "english": "talk"
+                            },
+                            {
+                                "chinese": "牛奶",
+                                "english": "milk"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第三单元",
+                        "words": [
+                            {
+                                "chinese": "铅笔",
+                                "english": "pencil"
+                            },
+                            {
+                                "chinese": "钢笔",
+                                "english": "pen"
+                            },
+                            {
+                                "chinese": "尺",
+                                "english": "ruler"
+                            },
+                            {
+                                "chinese": "在哪里",
+                                "english": "where"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第四单元",
+                        "words": [
+                            {
+                                "chinese": "鸟",
+                                "english": "bird"
+                            },
+                            {
+                                "chinese": "在...下面",
+                                "english": "under"
+                            },
+                            {
+                                "chinese": "桌子",
+                                "english": "desk"
+                            },
+                            {
+                                "chinese": "在...后面",
+                                "english": "behind"
+                            },
+                            {
+                                "chinese": "在...上面",
+                                "english": "on"
+                            },
+                            {
+                                "chinese": "椅子",
+                                "english": "chair"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第五单元",
+                        "words": [
+                            {
+                                "chinese": "四",
+                                "english": "four"
+                            },
+                            {
+                                "chinese": "五",
+                                "english": "five"
+                            },
+                            {
+                                "chinese": "六",
+                                "english": "six"
+                            },
+                            {
+                                "chinese": "七",
+                                "english": "seven"
+                            },
+                            {
+                                "chinese": "八",
+                                "english": "eight"
+                            },
+                            {
+                                "chinese": "九",
+                                "english": "nine"
+                            },
+                            {
+                                "chinese": "十",
+                                "english": "ten"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第六单元",
+                        "words": [
+                            {
+                                "chinese": "课；上课",
+                                "english": "class"
+                            },
+                            {
+                                "chinese": "床",
+                                "english": "bed"
+                            },
+                            {
+                                "chinese": "好；行",
+                                "english": "OK"
+                            },
+                            {
+                                "chinese": "午餐",
+                                "english": "lunch"
+                            },
+                            {
+                                "chinese": "十一",
+                                "english": "eleven"
+                            },
+                            {
+                                "chinese": "十二",
+                                "english": "twelve"
+                            },
+                            {
+                                "chinese": "包",
+                                "english": "bag"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第七单元",
+                        "words": [
+                            {
+                                "chinese": "农场",
+                                "english": "farm"
+                            },
+                            {
+                                "chinese": "那些",
+                                "english": "those"
+                            },
+                            {
+                                "chinese": "他们",
+                                "english": "they"
+                            },
+                            {
+                                "chinese": "苹果",
+                                "english": "apple"
+                            },
+                            {
+                                "chinese": "梨",
+                                "english": "pear"
+                            },
+                            {
+                                "chinese": "橙子",
+                                "english": "orange"
+                            },
+                            {
+                                "chinese": "谁",
+                                "english": "who"
+                            },
+                            {
+                                "chinese": "猪",
+                                "english": "pig"
+                            },
+                            {
+                                "chinese": "牛",
+                                "english": "cow"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第八单元",
+                        "words": [
+                            {
+                                "chinese": "我们",
+                                "english": "we"
+                            },
+                            {
+                                "chinese": "女孩",
+                                "english": "girl"
+                            },
+                            {
+                                "chinese": "男人",
+                                "english": "man"
+                            },
+                            {
+                                "chinese": "女人",
+                                "english": "woman"
+                            },
+                            {
+                                "chinese": "男孩",
+                                "english": "boy"
+                            },
+                            {
+                                "chinese": "名字",
+                                "english": "name"
                             }
                         ]
                     }
@@ -86,22 +410,34 @@
         "gradeName": "四年级",
         "volumes": [
             {
-                "volumeName": "上学期",
+                "volumeName": "上册",
                 "units": [
                     {
                         "unitName": "第一单元",
                         "words": [
                             {
-                                "english": "good",
-                                "chinese": "好"
+                                "chinese": "喜爱",
+                                "english": "like"
                             },
                             {
-                                "english": "I",
-                                "chinese": "我"
+                                "chinese": "狗",
+                                "english": "dog"
                             },
                             {
-                                "english": "he",
-                                "chinese": "他"
+                                "chinese": "猫",
+                                "english": "cat"
+                            },
+                            {
+                                "chinese": "熊猫",
+                                "english": "panda"
+                            },
+                            {
+                                "chinese": "马",
+                                "english": "horse"
+                            },
+                            {
+                                "chinese": "老虎",
+                                "english": "tiger"
                             }
                         ]
                     },
@@ -109,38 +445,252 @@
                         "unitName": "第二单元",
                         "words": [
                             {
-                                "english": "good",
-                                "chinese": "好"
+                                "chinese": "做；制作",
+                                "english": "make"
                             },
                             {
-                                "english": "I",
-                                "chinese": "我"
+                                "chinese": "一些；任何的",
+                                "english": "any"
                             },
                             {
-                                "english": "he",
-                                "chinese": "他"
+                                "chinese": "香蕉",
+                                "english": "banana"
+                            },
+                            {
+                                "chinese": "一些",
+                                "english": "some"
+                            },
+                            {
+                                "chinese": "我们的",
+                                "english": "our"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第三单元",
+                        "words": [
+                            {
+                                "chinese": "十三",
+                                "english": "thirteen"
+                            },
+                            {
+                                "chinese": "可以；会",
+                                "english": "can"
+                            },
+                            {
+                                "chinese": "十五",
+                                "english": "fifteen"
+                            },
+                            {
+                                "chinese": "当然",
+                                "english": "sure"
+                            },
+                            {
+                                "chinese": "十八",
+                                "english": "eighteen"
+                            },
+                            {
+                                "chinese": "玩",
+                                "english": "play"
+                            },
+                            {
+                                "chinese": "许多的",
+                                "english": "many"
+                            },
+                            {
+                                "chinese": "做；干",
+                                "english": "do"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第四单元",
+                        "words": [
+                            {
+                                "chinese": "篮球",
+                                "english": "basketball"
+                            },
+                            {
+                                "chinese": "足球",
+                                "english": "football"
+                            },
+                            {
+                                "chinese": "跳",
+                                "english": "jump"
+                            },
+                            {
+                                "chinese": "溜冰",
+                                "english": "skate"
+                            },
+                            {
+                                "chinese": "游泳",
+                                "english": "swim"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第五单元",
+                        "words": [
+                            {
+                                "chinese": "卧室",
+                                "english": "bedroom"
+                            },
+                            {
+                                "chinese": "客厅",
+                                "english": "living room"
+                            },
+                            {
+                                "chinese": "钟",
+                                "english": "clock"
+                            },
+                            {
+                                "chinese": "餐桌",
+                                "english": "table"
+                            },
+                            {
+                                "chinese": "浴室",
+                                "english": "bathroom"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第六单元",
+                        "words": [
+                            {
+                                "chinese": "在（某处）",
+                                "english": "at"
+                            },
+                            {
+                                "chinese": "咖啡",
+                                "english": "coffee"
+                            },
+                            {
+                                "chinese": "茶",
+                                "english": "tea"
+                            },
+                            {
+                                "chinese": "果汁",
+                                "english": "juice"
+                            },
+                            {
+                                "chinese": "米饭",
+                                "english": "rice"
+                            },
+                            {
+                                "chinese": "鱼",
+                                "english": "fish"
+                            },
+                            {
+                                "chinese": "大的",
+                                "english": "big"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第七单元",
+                        "words": [
+                            {
+                                "chinese": "鞋子",
+                                "english": "shoe"
+                            },
+                            {
+                                "chinese": "袜子",
+                                "english": "sock"
+                            },
+                            {
+                                "chinese": "二十",
+                                "english": "twenty"
+                            },
+                            {
+                                "chinese": "三十",
+                                "english": "thirty"
+                            },
+                            {
+                                "chinese": "四十",
+                                "english": "forty"
+                            },
+                            {
+                                "chinese": "五十",
+                                "english": "fifty"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第八单元",
+                        "words": [
+                            {
+                                "chinese": "眼睛",
+                                "english": "eye"
+                            },
+                            {
+                                "chinese": "小的",
+                                "english": "small"
+                            },
+                            {
+                                "chinese": "他的",
+                                "english": "his"
+                            },
+                            {
+                                "chinese": "短的",
+                                "english": "short"
+                            },
+                            {
+                                "chinese": "耳朵",
+                                "english": "ear"
+                            },
+                            {
+                                "chinese": "瘦的",
+                                "english": "thin"
+                            },
+                            {
+                                "chinese": "高的",
+                                "english": "tall"
                             }
                         ]
                     }
                 ]
             },
             {
-                "volumeName": "下学期",
+                "volumeName": "下册",
                 "units": [
                     {
                         "unitName": "第一单元",
                         "words": [
                             {
-                                "english": "good",
-                                "chinese": "好"
+                                "chinese": "学校",
+                                "english": "school"
                             },
                             {
-                                "english": "I",
-                                "chinese": "我"
+                                "chinese": "课程",
+                                "english": "subject"
                             },
                             {
-                                "english": "he",
-                                "chinese": "他"
+                                "chinese": "看见",
+                                "english": "see"
+                            },
+                            {
+                                "chinese": "语文",
+                                "english": "Chinese"
+                            },
+                            {
+                                "chinese": "数学",
+                                "english": "Maths"
+                            },
+                            {
+                                "chinese": "美术",
+                                "english": "Art"
+                            },
+                            {
+                                "chinese": "音乐",
+                                "english": "Music"
+                            },
+                            {
+                                "chinese": "课",
+                                "english": "lesson"
+                            },
+                            {
+                                "chinese": "周一",
+                                "english": "Monday"
                             }
                         ]
                     },
@@ -148,16 +698,1332 @@
                         "unitName": "第二单元",
                         "words": [
                             {
-                                "english": "good",
-                                "chinese": "好"
+                                "chinese": "周二",
+                                "english": "Tuesday"
                             },
                             {
-                                "english": "I",
-                                "chinese": "我"
+                                "chinese": "周三",
+                                "english": "Wednesday"
                             },
                             {
-                                "english": "he",
-                                "chinese": "他"
+                                "chinese": "周四",
+                                "english": "Thursday"
+                            },
+                            {
+                                "chinese": "周五",
+                                "english": "Friday"
+                            },
+                            {
+                                "chinese": "周六",
+                                "english": "Saturday"
+                            },
+                            {
+                                "chinese": "周日",
+                                "english": "Sunday"
+                            },
+                            {
+                                "chinese": "起床",
+                                "english": "get up"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第三单元",
+                        "words": [
+                            {
+                                "chinese": "通常",
+                                "english": "usually"
+                            },
+                            {
+                                "chinese": "去学校",
+                                "english": "go to school"
+                            },
+                            {
+                                "chinese": "在早上",
+                                "english": "in the morning"
+                            },
+                            {
+                                "chinese": "在下午",
+                                "english": "in the afternoon"
+                            },
+                            {
+                                "chinese": "回家",
+                                "english": "go home"
+                            },
+                            {
+                                "chinese": "作业",
+                                "english": "homework"
+                            },
+                            {
+                                "chinese": "看电视",
+                                "english": "watch TV"
+                            },
+                            {
+                                "chinese": "在晚上",
+                                "english": "in the evening"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第四单元",
+                        "words": [
+                            {
+                                "chinese": "公园",
+                                "english": "park"
+                            },
+                            {
+                                "chinese": "画画",
+                                "english": "draw"
+                            },
+                            {
+                                "chinese": "花",
+                                "english": "flower"
+                            },
+                            {
+                                "chinese": "他们（宾格）",
+                                "english": "them"
+                            },
+                            {
+                                "chinese": "船",
+                                "english": "boat"
+                            },
+                            {
+                                "chinese": "河",
+                                "english": "river"
+                            },
+                            {
+                                "chinese": "湖",
+                                "english": "lake"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第五单元",
+                        "words": [
+                            {
+                                "chinese": "季节",
+                                "english": "season"
+                            },
+                            {
+                                "chinese": "春天",
+                                "english": "spring"
+                            },
+                            {
+                                "chinese": "温暖的",
+                                "english": "warm"
+                            },
+                            {
+                                "chinese": "夏天",
+                                "english": "summer"
+                            },
+                            {
+                                "chinese": "炎热的",
+                                "english": "hot"
+                            },
+                            {
+                                "chinese": "秋天",
+                                "english": "autumn"
+                            },
+                            {
+                                "chinese": "凉爽的",
+                                "english": "cool"
+                            },
+                            {
+                                "chinese": "冬天",
+                                "english": "winter"
+                            },
+                            {
+                                "chinese": "寒冷的",
+                                "english": "cold"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第六单元",
+                        "words": [
+                            {
+                                "chinese": "连衣裙",
+                                "english": "dress"
+                            },
+                            {
+                                "chinese": "聚会",
+                                "english": "party"
+                            },
+                            {
+                                "chinese": "外套",
+                                "english": "coat"
+                            },
+                            {
+                                "chinese": "衬衫",
+                                "english": "shirt"
+                            },
+                            {
+                                "chinese": "毛衣",
+                                "english": "sweater"
+                            },
+                            {
+                                "chinese": "手",
+                                "english": "hand"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第七单元",
+                        "words": [
+                            {
+                                "chinese": "口渴的",
+                                "english": "thirsty"
+                            },
+                            {
+                                "chinese": "水",
+                                "english": "water"
+                            },
+                            {
+                                "chinese": "生病的",
+                                "english": "ill"
+                            },
+                            {
+                                "chinese": "累的",
+                                "english": "tired"
+                            },
+                            {
+                                "chinese": "开心的",
+                                "english": "happy"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第八单元",
+                        "words": [
+                            {
+                                "chinese": "可以",
+                                "english": "may"
+                            },
+                            {
+                                "chinese": "保重",
+                                "english": "take care"
+                            },
+                            {
+                                "chinese": "听见",
+                                "english": "hear"
+                            },
+                            {
+                                "chinese": "在学校",
+                                "english": "at school"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "gradeName": "五年级",
+        "volumes": [
+            {
+                "volumeName": "上册",
+                "units": [
+                    {
+                        "unitName": "第一单元",
+                        "words": [
+                            {
+                                "chinese": "房子",
+                                "english": "house"
+                            },
+                            {
+                                "chinese": "房间",
+                                "english": "room"
+                            },
+                            {
+                                "chinese": "在...前面",
+                                "english": "in front of"
+                            },
+                            {
+                                "chinese": "在...旁边",
+                                "english": "beside"
+                            },
+                            {
+                                "chinese": "在...中间",
+                                "english": "between"
+                            },
+                            {
+                                "chinese": "她（宾格）",
+                                "english": "her"
+                            },
+                            {
+                                "chinese": "他们的",
+                                "english": "their"
+                            },
+                            {
+                                "chinese": "找到",
+                                "english": "find"
+                            },
+                            {
+                                "chinese": "有（与be连用）",
+                                "english": "there"
+                            },
+                            {
+                                "chinese": "汤",
+                                "english": "soup"
+                            },
+                            {
+                                "chinese": "害怕的",
+                                "english": "afraid"
+                            },
+                            {
+                                "chinese": "森林",
+                                "english": "forest"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第二单元",
+                        "words": [
+                            {
+                                "chinese": "学生",
+                                "english": "student"
+                            },
+                            {
+                                "chinese": "教室",
+                                "english": "classroom"
+                            },
+                            {
+                                "chinese": "楼层",
+                                "english": "floor"
+                            },
+                            {
+                                "chinese": "第一",
+                                "english": "first"
+                            },
+                            {
+                                "chinese": "第二",
+                                "english": "second"
+                            },
+                            {
+                                "chinese": "第三",
+                                "english": "third"
+                            },
+                            {
+                                "chinese": "千秋",
+                                "english": "swing"
+                            },
+                            {
+                                "chinese": "推",
+                                "english": "push"
+                            },
+                            {
+                                "chinese": "重的",
+                                "english": "heavy"
+                            },
+                            {
+                                "chinese": "高的",
+                                "english": "high"
+                            },
+                            {
+                                "chinese": "停下",
+                                "english": "stop"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第三单元",
+                        "words": [
+                            {
+                                "chinese": "没有，无",
+                                "english": "no"
+                            },
+                            {
+                                "chinese": "腿",
+                                "english": "leg"
+                            },
+                            {
+                                "chinese": "也不，也没有",
+                                "english": "or"
+                            },
+                            {
+                                "chinese": "手臂",
+                                "english": "arm"
+                            },
+                            {
+                                "chinese": "翅膀",
+                                "english": "wing"
+                            },
+                            {
+                                "chinese": "脚，足",
+                                "english": "foot"
+                            },
+                            {
+                                "chinese": "给",
+                                "english": "give"
+                            },
+                            {
+                                "chinese": "手指",
+                                "english": "finger"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第四单元",
+                        "words": [
+                            {
+                                "chinese": "与...一起",
+                                "english": "with"
+                            },
+                            {
+                                "chinese": "读，阅读",
+                                "english": "read"
+                            },
+                            {
+                                "chinese": "跳舞",
+                                "english": "dance"
+                            },
+                            {
+                                "chinese": "唱歌",
+                                "english": "sing"
+                            },
+                            {
+                                "chinese": "两个都",
+                                "english": "both"
+                            },
+                            {
+                                "chinese": "湿的，潮的",
+                                "english": "wet"
+                            },
+                            {
+                                "chinese": "很多",
+                                "english": "a lot of"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第五单元",
+                        "words": [
+                            {
+                                "chinese": "教",
+                                "english": "teach"
+                            },
+                            {
+                                "chinese": "作家",
+                                "english": "writer"
+                            },
+                            {
+                                "chinese": "教师",
+                                "english": "teacher"
+                            },
+                            {
+                                "chinese": "写",
+                                "english": "write"
+                            },
+                            {
+                                "chinese": "驾驶员",
+                                "english": "driver"
+                            },
+                            {
+                                "chinese": "工作",
+                                "english": "work"
+                            },
+                            {
+                                "chinese": "工人",
+                                "english": "worker"
+                            },
+                            {
+                                "chinese": "帮助",
+                                "english": "help"
+                            },
+                            {
+                                "chinese": "生病的",
+                                "english": "sick"
+                            },
+                            {
+                                "chinese": "警察",
+                                "english": "policeman"
+                            },
+                            {
+                                "chinese": "护士",
+                                "english": "nurse"
+                            },
+                            {
+                                "chinese": "医生",
+                                "english": "doctor"
+                            },
+                            {
+                                "chinese": "厨师",
+                                "english": "cook"
+                            },
+                            {
+                                "chinese": "帮助",
+                                "english": "help"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第六单元",
+                        "words": [
+                            {
+                                "chinese": "网友",
+                                "english": "e-friend"
+                            },
+                            {
+                                "chinese": "发出",
+                                "english": "send"
+                            },
+                            {
+                                "chinese": "给",
+                                "english": "to"
+                            },
+                            {
+                                "chinese": "住，居住",
+                                "english": "live"
+                            },
+                            {
+                                "chinese": "坐，坐在",
+                                "english": "sit"
+                            },
+                            {
+                                "chinese": "在...旁边",
+                                "english": "by"
+                            },
+                            {
+                                "chinese": "等，等待",
+                                "english": "wait"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第七单元",
+                        "words": [
+                            {
+                                "chinese": "经常，常常",
+                                "english": "often"
+                            },
+                            {
+                                "chinese": "聊天",
+                                "english": "chat"
+                            },
+                            {
+                                "chinese": "有时",
+                                "english": "sometimes"
+                            },
+                            {
+                                "chinese": "出来",
+                                "english": "come out"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第八单元",
+                        "words": [
+                            {
+                                "chinese": "买",
+                                "english": "buy"
+                            },
+                            {
+                                "chinese": "圣诞节",
+                                "english": "Christmas"
+                            },
+                            {
+                                "chinese": "接着，然后",
+                                "english": "next"
+                            },
+                            {
+                                "chinese": "放",
+                                "english": "put"
+                            },
+                            {
+                                "chinese": "看起来",
+                                "english": "look"
+                            },
+                            {
+                                "chinese": "最后",
+                                "english": "finally"
+                            },
+                            {
+                                "chinese": "全都",
+                                "english": "all"
+                            },
+                            {
+                                "chinese": "他（宾格）",
+                                "english": "him"
+                            },
+                            {
+                                "chinese": "我们（宾格）",
+                                "english": "us"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "volumeName": "下册",
+                "units": [
+                    {
+                        "unitName": "第一单元",
+                        "words": [
+                            {
+                                "chinese": "为什么",
+                                "english": "why"
+                            },
+                            {
+                                "chinese": "因为",
+                                "english": "because"
+                            },
+                            {
+                                "chinese": "穿上",
+                                "english": "put on"
+                            },
+                            {
+                                "chinese": "不得不",
+                                "english": "have to"
+                            },
+                            {
+                                "chinese": "衣服",
+                                "english": "clothes"
+                            },
+                            {
+                                "chinese": "脱下",
+                                "english": "take off"
+                            },
+                            {
+                                "chinese": "让",
+                                "english": "let"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第二单元",
+                        "words": [
+                            {
+                                "chinese": "在...附近",
+                                "english": "near"
+                            },
+                            {
+                                "chinese": "乘",
+                                "english": "by"
+                            },
+                            {
+                                "chinese": "公交车",
+                                "english": "bus"
+                            },
+                            {
+                                "chinese": "步行",
+                                "english": "on foot"
+                            },
+                            {
+                                "chinese": "地铁",
+                                "english": "metro"
+                            },
+                            {
+                                "chinese": "出租车",
+                                "english": "taxi"
+                            },
+                            {
+                                "chinese": "自行车",
+                                "english": "bike"
+                            },
+                            {
+                                "chinese": "飞机",
+                                "english": "plane"
+                            },
+                            {
+                                "chinese": "火车",
+                                "english": "train"
+                            },
+                            {
+                                "chinese": "城市",
+                                "english": "city"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第三单元",
+                        "words": [
+                            {
+                                "chinese": "搭乘",
+                                "english": "take"
+                            },
+                            {
+                                "chinese": "上车",
+                                "english": "get on"
+                            },
+                            {
+                                "chinese": "下车",
+                                "english": "get off"
+                            },
+                            {
+                                "chinese": "步行",
+                                "english": "walk"
+                            },
+                            {
+                                "chinese": "街道",
+                                "english": "street"
+                            },
+                            {
+                                "chinese": "医院",
+                                "english": "hospital"
+                            },
+                            {
+                                "chinese": "商店",
+                                "english": "shop"
+                            },
+                            {
+                                "chinese": "动物园",
+                                "english": "zoo"
+                            },
+                            {
+                                "chinese": "电影",
+                                "english": "film"
+                            },
+                            {
+                                "chinese": "车站",
+                                "english": "stop"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第四单元",
+                        "words": [
+                            {
+                                "chinese": "感觉",
+                                "english": "feel"
+                            },
+                            {
+                                "chinese": "应该",
+                                "english": "should"
+                            },
+                            {
+                                "chinese": "休息",
+                                "english": "have a rest"
+                            },
+                            {
+                                "chinese": "牙疼",
+                                "english": "toothache"
+                            },
+                            {
+                                "chinese": "任何东西",
+                                "english": "anything"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第五单元",
+                        "words": [
+                            {
+                                "chinese": "擦，洗",
+                                "english": "clean"
+                            },
+                            {
+                                "chinese": "烧，煮",
+                                "english": "cook"
+                            },
+                            {
+                                "chinese": "忙碌的",
+                                "english": "busy"
+                            },
+                            {
+                                "chinese": "花园",
+                                "english": "garden"
+                            },
+                            {
+                                "chinese": "甜的",
+                                "english": "sweet"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第六单元",
+                        "words": [
+                            {
+                                "chinese": "蔬菜",
+                                "english": "vegetable"
+                            },
+                            {
+                                "chinese": "西红柿",
+                                "english": "tomato"
+                            },
+                            {
+                                "chinese": "土豆",
+                                "english": "potato"
+                            },
+                            {
+                                "chinese": "寻找",
+                                "english": "look for"
+                            },
+                            {
+                                "chinese": "喜欢；喜爱",
+                                "english": "love"
+                            },
+                            {
+                                "chinese": "面包",
+                                "english": "bread"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第七单元",
+                        "words": [
+                            {
+                                "chinese": "一月",
+                                "english": "January"
+                            },
+                            {
+                                "chinese": "二月",
+                                "english": "February"
+                            },
+                            {
+                                "chinese": "叫作",
+                                "english": "call"
+                            },
+                            {
+                                "chinese": "五月",
+                                "english": "May"
+                            },
+                            {
+                                "chinese": "六月",
+                                "english": "June"
+                            },
+                            {
+                                "chinese": "九月",
+                                "english": "September"
+                            },
+                            {
+                                "chinese": "十月",
+                                "english": "October"
+                            },
+                            {
+                                "chinese": "月亮",
+                                "english": "moon"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第八单元",
+                        "words": [
+                            {
+                                "chinese": "生日",
+                                "english": "birthday"
+                            },
+                            {
+                                "chinese": "四月",
+                                "english": "April"
+                            },
+                            {
+                                "chinese": "游戏",
+                                "english": "game"
+                            },
+                            {
+                                "chinese": "三月",
+                                "english": "March"
+                            },
+                            {
+                                "chinese": "七月",
+                                "english": "July"
+                            },
+                            {
+                                "chinese": "八月",
+                                "english": "August"
+                            },
+                            {
+                                "chinese": "十一月",
+                                "english": "December"
+                            },
+                            {
+                                "chinese": "戏剧",
+                                "english": "play"
+                            },
+                            {
+                                "chinese": "答案",
+                                "english": "answer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "gradeName": "六年级",
+        "volumes": [
+            {
+                "volumeName": "上册",
+                "units": [
+                    {
+                        "unitName": "第一单元",
+                        "words": [
+                            {
+                                "chinese": "笑；大笑",
+                                "english": "laugh"
+                            },
+                            {
+                                "chinese": "穿",
+                                "english": "wear"
+                            },
+                            {
+                                "chinese": "说",
+                                "english": "say"
+                            },
+                            {
+                                "chinese": "讲",
+                                "english": "tell"
+                            },
+                            {
+                                "chinese": "开始",
+                                "english": "start"
+                            },
+                            {
+                                "chinese": "小的",
+                                "english": "little"
+                            },
+                            {
+                                "chinese": "下一个",
+                                "english": "next"
+                            },
+                            {
+                                "chinese": "孩子",
+                                "english": "child"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第二单元",
+                        "words": [
+                            {
+                                "chinese": "晴朗的",
+                                "english": "sunny"
+                            },
+                            {
+                                "chinese": "天空",
+                                "english": "sky"
+                            },
+                            {
+                                "chinese": "带来",
+                                "english": "bring"
+                            },
+                            {
+                                "chinese": "有雨的",
+                                "english": "rainy"
+                            },
+                            {
+                                "chinese": "变成",
+                                "english": "become"
+                            },
+                            {
+                                "chinese": "有风的",
+                                "english": "windy"
+                            },
+                            {
+                                "chinese": "多云的",
+                                "english": "cloudy"
+                            },
+                            {
+                                "chinese": "饮料",
+                                "english": "drink"
+                            },
+                            {
+                                "chinese": "遇见",
+                                "english": "meet"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第三单元",
+                        "words": [
+                            {
+                                "chinese": "假期",
+                                "english": "holiday"
+                            },
+                            {
+                                "chinese": "劳动节",
+                                "english": "National Day"
+                            },
+                            {
+                                "chinese": "长城",
+                                "english": "Great wall"
+                            },
+                            {
+                                "chinese": "瓶子",
+                                "english": "bottle"
+                            },
+                            {
+                                "chinese": "纸",
+                                "english": "paper"
+                            },
+                            {
+                                "chinese": "激动地",
+                                "english": "excited"
+                            },
+                            {
+                                "chinese": "问",
+                                "english": "ask"
+                            },
+                            {
+                                "chinese": "最初",
+                                "english": "at first"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第四单元",
+                        "words": [
+                            {
+                                "chinese": "以前",
+                                "english": "ago"
+                            },
+                            {
+                                "chinese": "办公室",
+                                "english": "office"
+                            },
+                            {
+                                "chinese": "报纸",
+                                "english": "newspaper"
+                            },
+                            {
+                                "chinese": "新闻",
+                                "english": "news"
+                            },
+                            {
+                                "chinese": "观看",
+                                "english": "watch"
+                            },
+                            {
+                                "chinese": "电子书",
+                                "english": "e-book"
+                            },
+                            {
+                                "chinese": "用",
+                                "english": "with"
+                            },
+                            {
+                                "chinese": "昨天",
+                                "english": "yesterday"
+                            },
+                            {
+                                "chinese": "网友",
+                                "english": "e-friend"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第五单元",
+                        "words": [
+                            {
+                                "chinese": "标识",
+                                "english": "sign"
+                            },
+                            {
+                                "chinese": "购物中心",
+                                "english": "shopping centre"
+                            },
+                            {
+                                "chinese": "小心的",
+                                "english": "careful"
+                            },
+                            {
+                                "chinese": "意思是",
+                                "english": "mean"
+                            },
+                            {
+                                "chinese": "地面",
+                                "english": "floor"
+                            },
+                            {
+                                "chinese": "在...周围",
+                                "english": "around"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第六单元",
+                        "words": [
+                            {
+                                "chinese": "保持",
+                                "english": "keep"
+                            },
+                            {
+                                "chinese": "干净的",
+                                "english": "clean"
+                            },
+                            {
+                                "chinese": "使...变得",
+                                "english": "make"
+                            },
+                            {
+                                "chinese": "脏的",
+                                "english": "dirty"
+                            },
+                            {
+                                "chinese": "博物馆",
+                                "english": "museum"
+                            },
+                            {
+                                "chinese": "地面",
+                                "english": "ground"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第七单元",
+                        "words": [
+                            {
+                                "chinese": "使用",
+                                "english": "use"
+                            },
+                            {
+                                "chinese": "太多",
+                                "english": "much"
+                            },
+                            {
+                                "chinese": "石油",
+                                "english": "oil"
+                            },
+                            {
+                                "chinese": "开车",
+                                "english": "drive"
+                            },
+                            {
+                                "chinese": "其他的",
+                                "english": "other"
+                            },
+                            {
+                                "chinese": "玻璃",
+                                "english": "glass"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第八单元",
+                        "words": [
+                            {
+                                "chinese": "得到",
+                                "english": "get"
+                            },
+                            {
+                                "chinese": "下一周",
+                                "english": "next week"
+                            },
+                            {
+                                "chinese": "食物",
+                                "english": "food"
+                            },
+                            {
+                                "chinese": "富有的",
+                                "english": "rich"
+                            },
+                            {
+                                "chinese": "计划",
+                                "english": "plan"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "volumeName": "下册",
+                "units": [
+                    {
+                        "unitName": "第一单元",
+                        "words": [
+                            {
+                                "chinese": "大的",
+                                "english": "large"
+                            },
+                            {
+                                "chinese": "强壮的",
+                                "english": "strong"
+                            },
+                            {
+                                "chinese": "安静地；小声地",
+                                "english": "quietly"
+                            },
+                            {
+                                "chinese": "弱的",
+                                "english": "weak"
+                            },
+                            {
+                                "chinese": "大声地",
+                                "english": "loudly"
+                            },
+                            {
+                                "chinese": "开心地；高兴地",
+                                "english": "happily"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第二单元",
+                        "words": [
+                            {
+                                "chinese": "习惯",
+                                "english": "habit"
+                            },
+                            {
+                                "chinese": "干净的；整齐的",
+                                "english": "tidy"
+                            },
+                            {
+                                "chinese": "快的",
+                                "english": "fast"
+                            },
+                            {
+                                "chinese": "从不",
+                                "english": "never"
+                            },
+                            {
+                                "chinese": "迟的",
+                                "english": "late"
+                            },
+                            {
+                                "chinese": "完成",
+                                "english": "finish"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第三单元",
+                        "words": [
+                            {
+                                "chinese": "健康的",
+                                "english": "healthy"
+                            },
+                            {
+                                "chinese": "饮食",
+                                "english": "diet"
+                            },
+                            {
+                                "chinese": "一点",
+                                "english": "a little"
+                            },
+                            {
+                                "chinese": "需要",
+                                "english": "need"
+                            },
+                            {
+                                "chinese": "几个(修饰可数名词复数)",
+                                "english": "a few"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第四单元",
+                        "words": [
+                            {
+                                "chinese": "马路；公路",
+                                "english": "road"
+                            },
+                            {
+                                "chinese": "必须",
+                                "english": "must"
+                            },
+                            {
+                                "chinese": "安全的",
+                                "english": "safe"
+                            },
+                            {
+                                "chinese": "遵守",
+                                "english": "follow"
+                            },
+                            {
+                                "chinese": "灯",
+                                "english": "light"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第五单元",
+                        "words": [
+                            {
+                                "chinese": "儿童节",
+                                "english": "Children’s Day"
+                            },
+                            {
+                                "chinese": "开始",
+                                "english": "begin"
+                            },
+                            {
+                                "chinese": "结束",
+                                "english": "end"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第六单元",
+                        "words": [
+                            {
+                                "chinese": "国家",
+                                "english": "country"
+                            },
+                            {
+                                "chinese": "将要",
+                                "english": "will"
+                            },
+                            {
+                                "chinese": "学习",
+                                "english": "learn"
+                            },
+                            {
+                                "chinese": "欢迎",
+                                "english": "welcome"
+                            },
+                            {
+                                "chinese": "游客",
+                                "english": "visitor"
+                            },
+                            {
+                                "chinese": "如",
+                                "english": "like"
+                            },
+                            {
+                                "chinese": "月",
+                                "english": "month"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第七单元",
+                        "words": [
+                            {
+                                "chinese": "回去",
+                                "english": "go back to"
+                            },
+                            {
+                                "chinese": "多久",
+                                "english": "how long"
+                            },
+                            {
+                                "chinese": "照片",
+                                "english": "photo"
+                            },
+                            {
+                                "chinese": "旅游",
+                                "english": "travel"
+                            }
+                        ]
+                    },
+                    {
+                        "unitName": "第八单元",
+                        "words": [
+                            {
+                                "chinese": "梦想",
+                                "english": "dream"
+                            },
+                            {
+                                "chinese": "将来",
+                                "english": "future"
+                            },
+                            {
+                                "chinese": "科学家",
+                                "english": "scientist"
+                            },
+                            {
+                                "chinese": "艺术家",
+                                "english": "artist"
+                            },
+                            {
+                                "chinese": "牙齿",
+                                "english": "tooth"
+                            },
+                            {
+                                "chinese": "爱护，照顾（自己 或自己的东西",
+                                "english": "take care of"
                             }
                         ]
                     }
